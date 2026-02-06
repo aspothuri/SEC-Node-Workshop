@@ -1,0 +1,32 @@
+{
+  "nextId": 4,
+  "items": [
+    {
+      "id": 1,
+      "title": "Lemon Garlic Pasta",
+      "ingredients": ["spaghetti","lemon","garlic","olive oil","parmesan"],
+      "instructions": "Cook pasta. Sauté garlic in olive oil, toss with pasta, lemon juice and parmesan.",
+      "author": "Chef A",
+      "createdAt": "2025-01-01T12:00:00.000Z",
+      "updatedAt": "2025-01-01T12:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Spicy Chickpea Salad",
+      "ingredients": ["chickpeas","tomato","cucumber","olive oil","paprika"],
+      "instructions": "Combine and dress with olive oil and lemon. Sprinkle paprika.",
+      "author": "Chef B",
+      "createdAt": "2025-01-02T12:00:00.000Z",
+      "updatedAt": "2025-01-02T12:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Mug Cake",
+      "ingredients": ["flour","cocoa powder","sugar","milk","butter"],
+      "instructions": "Mix ingredients in a mug and microwave for 90 seconds.",
+      "author": "Chef C",
+      "createdAt": "2025-01-03T12:00:00.000Z",
+      "updatedAt": "2025-01-03T12:00:00.000Z"
+    }
+  ]
+}
