@@ -63,7 +63,6 @@ async function submitForm(e) {
 }
 
 function editRecipe(recipe) {
-  // Simple inline edit prompt (keeps UI minimal for workshop)
   const title = prompt('Title', recipe.title);
   if (title === null) return;
   const author = prompt('Author', recipe.author || '');
