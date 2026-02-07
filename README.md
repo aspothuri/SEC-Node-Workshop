@@ -34,8 +34,3 @@ Files
 - `src/datastore.js` — simple file-based datastore with CRUD helpers
 - `data/recipes.json` — sample data persisted to disk
 - `public/` — static frontend (HTML/CSS/JS)
-
-Teaching notes
-
-- Keep explanations focused on middleware (parsing, logging), route handlers, and asynchronous file I/O.
-- Show how the frontend calls each API endpoint and how the server responds.
